@@ -1,0 +1,44 @@
+{
+  "name": "collaborative-task-manager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.8",
+    "axios": "^1.7.7",
+    "bcryptjs": "^2.4.3",
+    "framer-motion": "^11.11.2",
+    "i18next": "^23.16.0",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "i18next-http-backend": "^2.6.2",
+    "mongoose": "^8.7.0",
+    "next": "14.2.14",
+    "next-auth": "^4.24.8",
+    "next-i18next": "^15.3.1",
+    "primereact": "^10.8.4",
+    "react": "^18",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-i18next": "^15.0.3",
+    "react-icons": "^5.3.0",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "socket.io": "^4.8.0",
+    "socket.io-client": "^4.8.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1",
+    "cypress": "^13.15.0",
+    "docker": "^1.0.0",
+    "jest": "^29.7.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
