@@ -16,8 +16,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/DevNinja56/task-management-assessment.git
-   cd task-management-assessment
+   git clone https://github.com/devsaad05858/Task-Management.git
+   cd Task-Management
    ```
 
 2. **Install packages**:
